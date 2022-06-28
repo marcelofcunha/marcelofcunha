@@ -1,9 +1,10 @@
 ```diff
 !Olá, eu sou o Marcelo.
 
-+Treinado nas artes arcanas da magia moderna, infiéis dirão que é apenas programação. Faço coisas criando
-+e explorando técnicas (e ideias sem fundamento), sempre aprendendo com meus erros, explorando
-+design patterns, buscando e melhorando sempre á capacidade de falar sobre código.Coisas que ando usando e desenvolvendo:
++ Treinado nas artes arcanas da magia moderna, infiéis dirão que é apenas programação. Faço coisas criando
++ e explorando técnicas (e ideias sem fundamento), sempre aprendendo com meus erros, explorando
++ design patterns, buscando e melhorando sempre á capacidade de 
++ Coisas que ando usando e desenvolvendo:Coisas que ando usando e desenvolvendo:falar sobre código. Coisas que ando usando e desenvolvendo:
 
 ```
 
