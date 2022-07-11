@@ -6,6 +6,7 @@
 + criando e explorando técnicas (e ideias sem fundamento), sempre aprendendo com meus erros, explorando
 + design patterns, buscando e melhorando sempre á capacidade de falar sobre código.
 
+
 ```
 ------------
 ### Coisas que ando usando e desenvolvendo:
